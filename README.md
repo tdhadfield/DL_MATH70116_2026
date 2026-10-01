@@ -1,6 +1,8 @@
 # DL_MATH70116_2026
 MATH 70116, Deep Learning, Autumn 2026
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression_by_hand.ipynb
+
 The aim of this course is to provide a concise introduction to  deep learning, with a view to applications in quantitative finance. In particular, this course will develop a thorough understanding of the properties of feedforward neural networks and how they are trained.
 
 By the end of this course, you will be able to:
