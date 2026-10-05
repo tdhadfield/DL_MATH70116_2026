@@ -27,4 +27,4 @@ https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_basic_operations.ipynb
  https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_computation_graphs.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression_by_hand.ipynb
-https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Simple_curve_fitting.ipynb)
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression.ipynb)
