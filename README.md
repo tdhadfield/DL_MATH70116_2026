@@ -29,4 +29,5 @@ https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression_by_hand.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Universal_approximation_theorem.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Universal_approximation_theorem_examples.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Vanishing_and_exploding_gradients.ipynb)
