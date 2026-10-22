@@ -20,12 +20,14 @@ By the end of this course, you will be able to:
 
 Google Colab links to notebooks:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Activation_functions.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Approximate_abs_x_by_polynomials.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Classification.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Implementing_Neural_Networks_in_Pytorch.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Manual_forwardpass_backpropagation.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Network_initialisation.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/OR_AND_NAND_XOR.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_basic_operations.ipynb
- https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_computation_graphs.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_computation_graphs.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression_by_hand.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Regression.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Universal_approximation_theorem.ipynb
