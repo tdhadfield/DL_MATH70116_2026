@@ -20,6 +20,7 @@ By the end of this course, you will be able to:
 
 Google Colab links to notebooks:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Activation_functions.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Approximate_abs_x_by_polynomials.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Classification.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Implementing_Neural_Networks_in_Pytorch.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Manual_forwardpass_backpropagation.ipynb
