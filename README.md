@@ -29,6 +29,7 @@ https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Manual_forwardpass_backpropagation.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Network_initialisation.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/OR_AND_NAND_XOR.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/PL_approximation.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Problem_Set1_Soln.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_basic_operations.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Pytorch_computation_graphs.ipynb
