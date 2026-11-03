@@ -21,6 +21,7 @@ By the end of this course, you will be able to:
 Google Colab links to notebooks:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Activation_functions.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Approximate_abs_x_by_polynomials.ipynb
+https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/BERT_masked_language_modelling.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/BERT_token_embeddings.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Bag_of_words_embeddings.ipynb
 https://colab.research.google.com/github/tdhadfield/DL_MATH70116_2026/blob/main/Byte_pair_encoding.ipynb
